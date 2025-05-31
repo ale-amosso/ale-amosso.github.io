@@ -1,3 +1,10 @@
+---
+layout: post
+title: "📒 How to start a Jupyter Notebook"
+date: 2025-05-31
+tags: [python, jupyter, setup, notes]
+---
+
 # 📒 How to start a Jupyter Notebook
 
 Dear future me, I know you are going to forget — again — how to launch a Jupyter Notebook.  
@@ -39,8 +46,10 @@ Or, if you prefer Jupyter Lab:
 pip install jupyterlab
 jupyter lab
 ```
-
-![Jupyter Notebook image, showing the 'venv' folder](../assets/images/31_05_25/jupyter_notebook_1.png)
+<figure>
+  <img src="/assets/images/31_05_25/jupyter_notebook_1.png" alt="Starting interface" width="800">
+  <figcaption>Fig. 1: Starting interface showing the 'venv' folder. </figcaption>
+</figure>
 
 ## Step 6 — Create the first notebook
 To keep things organized, create a new folder (e.g., `notebooks`) at the same level as `venv` folder.
@@ -50,8 +59,10 @@ To keep things organized, create a new folder (e.g., `notebooks`) at the same le
 3. Enter the folder
 4. Click **"New" → "Python 3"** to create the first notebook!
 
-![Jupyter Notebook image, showing the test notebook](../assets/images/31_05_25/test_notebook.png)
-
+<figure>
+  <img src="/assets/images/31_05_25/test_notebook.png" alt="Jupyter Notebook image, showing the test notebook" width="800">
+  <figcaption>Fig. 2: Jupyter interface showing the test notebook file. </figcaption>
+</figure>
 
 That’s it!
 Good luck with your new project :)
