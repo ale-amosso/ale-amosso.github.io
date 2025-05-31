@@ -3,9 +3,8 @@ layout: post
 title: "📒 How to start a Jupyter Notebook"
 date: 2025-05-31
 tags: [python, jupyter, setup, notes]
+author: Alessandra Amosso
 ---
-
-# 📒 How to start a Jupyter Notebook
 
 Dear future me, I know you are going to forget — again — how to launch a Jupyter Notebook.  
 So here's a quick guide, for you and for anyone else who stumbles upon this page.
