@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I turned a simple Python script into a Web App with Render"
-date: 2025-07-127
+date: 2025-07-27
 tags: [python, react, setup, render, fastapi]
 author: Alessandra Amosso
 ---
