@@ -34,7 +34,7 @@ The API acts like a “bridge” between the frontend and backend. The frontend 
 
 Here’s a simplified diagram showing how the frontend and backend interact through the API:
 <figure>
-  <img src="/assets/images/27_07_25/fe_api_beder.png" alt="Schematic representation of how the API acts as a bridge between the frontend and the backend" width="800">
+  <img src="/assets/images/27_07_25/fe_api_be.png" alt="Schematic representation of how the API acts as a bridge between the frontend and the backend" width="800">
   <figcaption>Fig. 1 Schematic representation of how the API acts as a bridge between the frontend and the backend. </figcaption>
 </figure>
 
