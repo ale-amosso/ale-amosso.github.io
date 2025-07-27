@@ -1,0 +1,21 @@
+section {
+  width: 100% !important;
+  float: none !important;
+}
+
+header>p {
+  display: none !important;
+}
+
+header {
+  width: 100% !important;
+}
+
+footer {
+  display: none !important;
+}
+
+.wrapper {
+  min-width: 50% !important;
+  width: 900px !important;
+}

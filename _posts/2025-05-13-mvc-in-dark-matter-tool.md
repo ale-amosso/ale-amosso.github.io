@@ -2,7 +2,10 @@
 layout: post
 title: "Applying MVC to a Dark Matter Computation Tool"
 tags: [physics, dark-matter, software]
+
 ---
+
+<link rel="stylesheet" href="/assets/css/custom-post.css">
 
 TEST of first post :)
 <figure>

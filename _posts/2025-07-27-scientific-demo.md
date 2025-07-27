@@ -6,6 +6,7 @@ tags: [python, react, setup, render, fastapi]
 author: Alessandra Amosso
 ---
 
+<link rel="stylesheet" href="/assets/css/custom-post.css">
 ## How I turned a simple Python script into a Web App with Render
 For a recent project, I needed to compute the **radius of a neutron star** based on its mass, using data from the [Compose database](https://compose.obspm.fr/). Compose provides a variety of equation of state (EoS) tables, which can be downloaded as `.zip` folders.
 
