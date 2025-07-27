@@ -1,0 +1,28 @@
+/* Enlarge the central column */
+.wrapper {
+  max-width: 900px !important;
+  padding: 2rem 1rem;
+}
+
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Improve the code style*/
+pre, code {
+  background: #1e1e1e;
+  color: #f8f8f2;
+  padding: 1rem;
+  border-radius: 8px;
+  font-family: 'Fira Code', monospace;
+  font-size: 0.95rem;
+  overflow-x: auto;
+}
+
+
+h1, h2, h3 {
+  word-break: keep-all;
+}
