@@ -329,7 +329,8 @@ That’s it! Now, by going to: https://ns-eos-extractor-frontend.onrender.com/ y
 >**Note**: Since I’m using the free Render plan, the backend may go into sleep mode after a period of inactivity.
 In that case, the first request can take up to 50 seconds to respond.
 
-Here's a video demo of the project:
 
-<iframe width="800" height="450" src="https://youtu.be/PITA7VVK0io" frameborder="0" allowfullscreen></iframe>
+
+[![Here's a video demo of the project](https://img.youtube.com/vi/PITA7VVK0io/hqdefault.jpg)](https://youtu.be/PITA7VVK0io)
+
 
