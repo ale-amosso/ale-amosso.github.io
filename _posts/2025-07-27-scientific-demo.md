@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "How I turned a simple Python script into a Web App with Render"
+title: "🐍 How I turned a simple Python script into a Web App with Render"
 date: 2025-07-27
 tags: [python, react, setup, render, fastapi]
 author: Alessandra Amosso
 ---
 
 <link rel="stylesheet" href="/assets/css/custom-post.css">
+
 ## How I turned a simple Python script into a Web App with Render
 For a recent project, I needed to compute the **radius of a neutron star** based on its mass, using data from the [Compose database](https://compose.obspm.fr/). Compose provides a variety of equation of state (EoS) tables, which can be downloaded as `.zip` folders.
 
@@ -330,7 +331,7 @@ That’s it! Now, by going to: https://ns-eos-extractor-frontend.onrender.com/ y
 >**Note**: Since I’m using the free Render plan, the backend may go into sleep mode after a period of inactivity.
 In that case, the first request can take up to 50 seconds to respond.
 
-
+Here's a video demo of the project:
 
 [![Here's a video demo of the project](https://img.youtube.com/vi/PITA7VVK0io/hqdefault.jpg)](https://youtu.be/PITA7VVK0io)
 

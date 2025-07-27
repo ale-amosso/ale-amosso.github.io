@@ -9,6 +9,7 @@ header>p {
 
 header {
   width: 100% !important;
+  position: unset !important;
 }
 
 footer {
