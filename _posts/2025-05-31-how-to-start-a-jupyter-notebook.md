@@ -6,6 +6,8 @@ tags: [python, jupyter, setup, notes]
 author: Alessandra Amosso
 ---
 
+<link rel="stylesheet" href="/assets/css/custom-post.css">
+
 Dear future me, I know you are going to forget — again — how to launch a Jupyter Notebook.  
 So here's a quick guide, for you and for anyone else who stumbles upon this page.
 

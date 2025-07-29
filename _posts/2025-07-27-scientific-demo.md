@@ -132,13 +132,11 @@ cd frontend
 
 This command creates a new `frontend` folder with all the necessary files, including App.js, the main component of the interface.
 
-After that, I installed Axios, a library for making HTTP requests:
+After that, I installed [Axios](https://axios-http.com/docs/intro), a library for making HTTP requests:
 
 ```bash
 npm install axios
 ```
-
-Where [Axios](https://axios-http.com/docs/intro) is a library for making HTTP requests. 
 
 To check if everything worked, I launched the app from the `frontend` folder:
 ```bash
@@ -331,8 +329,5 @@ That’s it! Now, by going to: https://ns-eos-extractor-frontend.onrender.com/ y
 >**Note**: Since I’m using the free Render plan, the backend may go into sleep mode after a period of inactivity.
 In that case, the first request can take up to 50 seconds to respond.
 
-Here's a video demo of the project:
-
-[![Here's a video demo of the project](https://img.youtube.com/vi/PITA7VVK0io/hqdefault.jpg)](https://youtu.be/PITA7VVK0io)
-
+Here's a video demo of the project: https://vimeo.com/1105432258?share=copy
 
